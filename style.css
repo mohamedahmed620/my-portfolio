@@ -1,0 +1,27 @@
+
+header{
+  background-color:#89A6B9;
+  font-family: serif;
+  margin: auto;
+  height:80px;
+  line-height:20px;
+  text-align: center;
+  border-radius: 20px;
+  padding: 20px
+} 
+
+body{
+  margin: 50px;
+  background-color: rgb(229, 214, 147) ;
+
+   
+}
+section1{
+  text-align: center;
+}
+footer{
+  background-color: #89A6B9;
+  padding: 12px;
+  /* text-align: t; */
+  letter-spacing: 2px
+}
